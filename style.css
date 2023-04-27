@@ -132,7 +132,7 @@ main {
   cursor: pointer;
   /* padding-top: 10px; */
 }
-@media (max-width: 768px) {
+@media (max-width: 468px) {
   body {
     height: 100%;
     position: relative;
